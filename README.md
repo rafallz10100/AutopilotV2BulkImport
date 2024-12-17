@@ -26,7 +26,8 @@ Adding enrolled devices in Intune to Device Identifiers, which will improve the 
    ![image](https://github.com/user-attachments/assets/c4b64ce1-ce46-44e4-81bb-2ebaac374cb1)
 
 #### Example:
-![AutopilotV2](https://github.com/user-attachments/assets/9cf772d2-a5d5-4807-9c04-ecf8e50eae8d)
+![AutopilotV2 - Copy](https://github.com/user-attachments/assets/9adfc1e7-f84c-468e-94dc-8df30d8019e4)
+
 
 ## Reporting problems
 
